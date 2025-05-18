@@ -28,9 +28,11 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop View - Testimonials Grid Section](./screenshots/desktop.png)
+
 **Desktop view showcasing the responsive testimonials grid layout.**
 
 ![Mobile View - Testimonials Grid Section](./screenshots/mobile.png)
+
 **Mobile view showcasing the responsive testimonials grid layout.**
 
 ### Links
